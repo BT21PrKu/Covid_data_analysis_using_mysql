@@ -1,7 +1,7 @@
 
 SELECT *
 FROM PortfolioProject..CovidDeaths
-oRDER BY 3,4
+ORDER BY 3,4
 
 --SELECT *
 --FROM PortfolioProject..CovidVaccinations
