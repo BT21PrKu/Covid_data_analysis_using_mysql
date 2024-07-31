@@ -1,4 +1,4 @@
-# COVID-19 Data Analysis Project
+# COVID-19 Data Analysis Using MySQL
 
 This project analyzes COVID-19 data with a focus on cases, deaths, and vaccinations across different locations. The data is sourced from 'https://github.com/owid/covid-19-data/tree/master/public/data' and converted to two primary tables: `CovidDeaths` and `CovidVaccinations`. The analysis includes calculating infection and death rates, comparing these rates across various countries and continents, and visualizing vaccination progress.
 
